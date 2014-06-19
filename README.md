@@ -14,7 +14,8 @@ This repository contains three files:
 
 	- README.md to explain the contents of the repository
 
-	- codebook.pdf to provide detailed information about the dataset and variables used
+	- codebook.pdf to provide detailed information about the dataset and variables used  
+	 (Note: to view this file, you may have to click the "View Raw" link in GitHub)
 
 	- run_analysis.R an R script for cleaning and analyzing the dataset
 
